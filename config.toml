@@ -1,3 +1,4 @@
-baseURL = 'http://desvl.github.io/'
-languageCode = 'en-us'
+baseURL = 'https://desvl.github.io/'
+languageCode = 'zh-cn'
 title = 'Desvl的博客'
+theme = 'ink'
